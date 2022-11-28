@@ -7,4 +7,5 @@
 + also, This a NON-official KIZZY page all the credits to @dead8309
 
 > Regular questions about KIZZY:
- > 
+ > how to LOG IN
+* press 
