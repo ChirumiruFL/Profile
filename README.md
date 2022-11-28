@@ -23,4 +23,10 @@
 
 ![IMG_20221127_210828](https://user-images.githubusercontent.com/117464679/204167316-1070c0e9-d90d-4603-9a29-7a33778e68a1.jpg)
 
-# 
+
+
+
+
+
+
+# that's all for now, it's midnight so I will continue in one day, <3
