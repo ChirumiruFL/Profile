@@ -1,3 +1,21 @@
+ * official KIZZY server, go check it out! 
+<a href="https://discord.gg/vUPc7zzpV5">
+<img src="https://dcbadge.vercel.app/api/server/vUPc7zzpV5">
+</a>
+</div> 
+
+`basic "kizzy's" rules`
+
+> Be friendly towards other members Help preserve the aura of friendliness in #general and be nice to newcomers! (All you need!)
+
+> 1. Don't spam or disrupt the flow of the channels.
+> 2. If the mods tell you to stop, stop.
+> 3. Drama is unwelcome here.
+> 4. Respect individual channel rules, general chat is less strict for what can be posted.
+> 5. No advertising without permission.(could lead to ban)
+> 6. Do not post NSFW content anywhere 
+> 7. Mods reserve the right to handle offenses as they see appropriate for the situation if you don't show improvement when asked to stop you could get terminated from server.`
+
 # KIZZY
 ![Protective_Gaze](https://user-images.githubusercontent.com/117464679/204165951-ad35cf10-687e-4f00-a898-82aa51c2238a.png)
 
@@ -25,26 +43,6 @@
 
 
 
-
-
-
-* official KIZZY server, go check it out! 
-<a href="https://discord.gg/vUPc7zzpV5">
-<img src="https://dcbadge.vercel.app/api/server/vUPc7zzpV5">
-</a>
-</div> 
-
-`basic "kizzy's" rules`
-
-> Be friendly towards other members Help preserve the aura of friendliness in #general and be nice to newcomers! (All you need!)
-
-> 1. Don't spam or disrupt the flow of the channels.
-> 2. If the mods tell you to stop, stop.
-> 3. Drama is unwelcome here.
-> 4. Respect individual channel rules, general chat is less strict for what can be posted.
-> 5. No advertising without permission.(could lead to ban)
-> 6. Do not post NSFW content anywhere 
-> 7. Mods reserve the right to handle offenses as they see appropriate for the situation if you don't show improvement when asked to stop you could get terminated from server.`
 
 - how to use custom RPC
 
@@ -102,5 +100,16 @@ idle =
 ` activity buttons and buttons URL'S`
 > input a text to display on the RPC 
 
-#
+# Buttons 
+> you can put any text, if you want. 
+- example 
+![IMG_20221127_224540](https://user-images.githubusercontent.com/117464679/204624748-da8a31a9-723e-4103-a447-04c36da22a56.jpg)
+> URL'S, you can put any URL, an example;
+```https://youtube.com/watch?v=FxSTwcQSgKE```
+To make it work it's Very Simple on activity 2-1 URL put the link ;]
 
+# Activity large/small image
+
+to do this you I'll need a Gif/image link, go into Google and search your image/gif, and copy Image/Gif link. 
+
+Example: 
